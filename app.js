@@ -12,4 +12,4 @@ let gameState = {
 
 // * Make them work together
 
-console.log("Hello");
+console.log("Howdy");
